@@ -1,2 +1,2 @@
 # transferring
-meant for transferring a document
+Meant for transferring a document.
